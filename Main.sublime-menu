@@ -29,17 +29,17 @@
                         [
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/SublimCakeGenerateor/SublimCakeGenerateor.sublime-settings"},
+                                "args": {"file": "${packages}/SublimCakeGenerator/SublimCakeGenerator.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/SublimCakeGenerateor.sublime-settings"},
+                                "args": {"file": "${packages}/User/SublimCakeGenerator.sublime-settings"},
                                 "caption": "Settings – User"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/SublimCakeGenerateor.sublime-commands"},
+                                "args": {"file": "${packages}/User/SublimCakeGenerator.sublime-commands"},
                                 "caption": "Commands – User"
                             }
                         ]

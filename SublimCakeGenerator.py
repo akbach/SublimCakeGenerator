@@ -7,7 +7,7 @@ import sublime_plugin
 class SublimeCakeGeneratorCommand(sublime_plugin.WindowCommand):
     def __init__(self, *args, **kwargs):
         super(SublimeCakeGeneratorCommand, self).__init__(*args, **kwargs)
-        settings = sublime.load_settings('SublimCakeGenerateor.sublime-settings')
+        settings = sublime.load_settings('SublimCakeGenerator.sublime-settings')
         self.php_path = settings.get('php_path')
         self.cake_console_path = settings.get('cake_console_path')
 
