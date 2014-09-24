@@ -1,0 +1,4 @@
+{
+    "php_path": "/usr/local/opt/php55/bin/php",
+    "cake_console_path": "app/Console/cake.php"
+}

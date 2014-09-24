@@ -1,0 +1,106 @@
+[{
+        "caption": "Cakephp Generate: Project",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake project",
+            "fill_in": true,
+            "fill_in_lable": "Project name"
+        }
+    },
+
+    {
+        "caption": "Cakephp Generate: Model",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake model",
+            "fill_in": true,
+            "fill_in_lable": "Model name"
+        }
+    },
+
+    {
+        "caption": "Cakephp Generate: Controller",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake controller",
+            "fill_in": true,
+            "fill_in_lable": "Controller name"
+        }
+    },
+
+    {
+        "caption": "Cakephp Generate: View",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake view",
+            "fill_in": true,
+            "fill_in_lable": "View name"
+        }
+    }, {
+        "caption": "Cakephp Generate: Helper",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake helper",
+            "fill_in": true,
+            "fill_in_lable": "Helper name"
+        }
+    }, {
+        "caption": "Cakephp Generate: Behavior",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake behavior",
+            "fill_in": true,
+            "fill_in_lable": "Behavior name"
+        }
+    },
+
+    {
+        "caption": "Cakephp Generate: Component",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake component",
+            "fill_in": true,
+            "fill_in_lable": "Component name"
+        }
+    }, {
+        "caption": "Cakephp Generate: Cell",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake cell",
+            "fill_in": true,
+            "fill_in_lable": "Cell name"
+        }
+    }, {
+        "caption": "Cakephp Generate: shell",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake fixture",
+            "fill_in": true,
+            "fill_in_lable": "Fixture name"
+        }
+    }, {
+        "caption": "Cakephp Generate: Shell",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake shell",
+            "fill_in": true,
+            "fill_in_lable": "Shell name"
+        }
+    }, {
+        "caption": "Cakephp Generate: Test",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake test",
+            "fill_in": true,
+            "fill_in_lable": "test name"
+        }
+    }, {
+        "caption": "Cakephp Generate: Plugin",
+        "command": "sublime_cake_generator",
+        "args": {
+            "command": "bake plugin",
+            "fill_in": true,
+            "fill_in_lable": "Plugin name"
+        }
+    },
+]
