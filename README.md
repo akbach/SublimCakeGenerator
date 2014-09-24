@@ -47,7 +47,8 @@ Change command `caption` and `command` in `args`.
 Use `fill_in: true` if you need some input for your command and `fill_in_lable: "Text"` for message.
 
 ### Installation:
-Use Package Controller or create a the directory `Laravel 4 Artisan` in your Sublime Text Packages directory with source code, and you're ready to go.
+clone into your Packages directory (Preferences/Browse Packages).
+Or Use Package Controller and search for `Cakephp bake generator` coming soon...
 
 ### Usage:
 Press Cmd + Shift + P for the dropdown command list, search for `cakephp `, and pick your command. Also you can use `Tools/Cakephp...` menu item
